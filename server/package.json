@@ -11,5 +11,10 @@
     "en"
   ],
   "author": "GummerD",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "config": "^3.3.9",
+    "express": "^4.18.2",
+    "mongoose": "^7.0.0"
+  }
 }
