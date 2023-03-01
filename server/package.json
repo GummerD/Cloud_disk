@@ -1,0 +1,15 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "cloud-disc",
+  "main": "index.js",
+  "scripts": {
+    "test": "start",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "en"
+  ],
+  "author": "GummerD",
+  "license": "ISC"
+}
